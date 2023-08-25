@@ -49,7 +49,7 @@
 <!-- /wp:uagb/separator -->
 
 <!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading"><strong>2.GlaDOS梯子 <a href="https://glados.space/landing/9BK05-PB31T-CLZVW-NLMDS">点击访问官网</a></strong></h1>
+<h2 class="wp-block-heading"><strong>2.GlaDOS梯子 <a href="https://glados.space/landing/9BK05-PB31T-CLZVW-NLMDS">点击访问官网</a></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -65,7 +65,7 @@
 <!-- /wp:uagb/separator -->
 
 <!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading"><strong>3.BitzNet梯子 <a href="https://login.getbitzapp.com/#/register?code=s8U6IhZG">点击访问官网</a></strong></h1>
+<h2 class="wp-block-heading"><strong>3.BitzNet梯子 <a href="https://login.getbitzapp.com/#/register?code=s8U6IhZG">点击访问官网</a></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -81,7 +81,7 @@
 <!-- /wp:uagb/separator -->
 
 <!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading"><a href="https://github.com/gooomo/bestTizi/blob/main/README.md#4panda%E6%A2%AF%E5%AD%90-%E7%82%B9%E5%87%BB%E8%AE%BF%E9%97%AE%E5%AE%98%E7%BD%91"></a><strong>4.SurfShark-VPN <a href="https://get.surfshark.net/aff_c?offer_id=926&amp;aff_id=23731&amp;url_id=1498">点击访问官网</a></strong></h1>
+<h2 class="wp-block-heading"><a href="https://github.com/gooomo/bestTizi/blob/main/README.md#4panda%E6%A2%AF%E5%AD%90-%E7%82%B9%E5%87%BB%E8%AE%BF%E9%97%AE%E5%AE%98%E7%BD%91"></a><strong>4.SurfShark-VPN <a href="https://get.surfshark.net/aff_c?offer_id=926&amp;aff_id=23731&amp;url_id=1498">点击访问官网</a></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
