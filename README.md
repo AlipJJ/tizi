@@ -9,7 +9,7 @@
 <!-- /wp:uagb/separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading"><strong>1.CMYNetwork红梅梯子 <a href="http://www.gotomony.com/register?aff=VSS05O" data-type="link" data-id="http://www.gotomony.com/register?aff=VSS05O">点击访问官网</a></strong></h2>
+<h2 class="wp-block-heading"><strong>1.CMYNetwork红梅梯子 <a href="https://bit.ly/CMYNet">点击访问官网</a></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
