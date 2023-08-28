@@ -64,16 +64,16 @@
 <div class="wp-block-uagb-separator uagb-block-ed034345"><div class="wp-block-uagb-separator__inner" style="--my-background-image:"></div></div>
 <!-- /wp:uagb/separator -->
 
-<!-- wp:heading {"level":1} -->
-<h2 class="wp-block-heading"><strong>3.BitzNet梯子 <a href="https://bit.ly/Bitznet">点击访问官网</a></strong></h2>
+<!-- wp:heading -->
+<h2 class="wp-block-heading">3.NiceCloud梯子<a href="https://nicecloud.io/#/register?code=4HCDYYDD">点击访问官网</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>✅5年老机场，注册地塞舌尔共和国，带宽大，比较适合解锁观看流媒体</p>
+<p>✅优质新机场，全中转线路入口多，速度快，支持ChatGPT，解锁流媒体，机场打新首选</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>优点：可试用，节点分布于17个国家，线路多达45条，隧道中转与IPLC/IEPL专线，使用Trojan协议，</p>
+<p>优点：可试用，节点分布于11个国家，线路35条，隧道中转，SS/SSR 协议，</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:uagb/separator {"block_id":"c1efb2a8"} -->
@@ -105,7 +105,7 @@
 <!-- /wp:uagb/separator -->
 
 <!-- wp:paragraph -->
-<p>关于如何选择梯子：选择梯子一般都会选用老品牌，最好生存期在三年以上的。因为新出的梯子代表产品的稚嫩，可能节点和客户端等没有经过用户的体验反馈并不能更新迭代到尽善尽美，谁都不想当一个试金石，所以新出的梯子一般不用考虑。其次国内运营商出品的梯子，有些梯子是国内某些小工作室买套源码搭出来的，出于安全性和跑路等问题的考虑，也不用考虑。</p>
+<p>关于如何选择梯子：选择梯子一般都会选用老品牌，最好生存期在三年以上的。因为新出的梯子代表产品的稚嫩，可能节点和客户端等没有经过用户的体验反馈并不能更新迭代到尽善尽美，谁都不想当一个试金石。但也要认识到，某些优质的新机场由于用户有限很少存在超卖情况，所以速度体验会非常爽，这就是所谓高性价比的打新，但是选择要谨慎，最好按月订购。其次国内运营商出品的梯子，有些梯子是国内某些小工作室买套源码搭出来的，出于安全性和跑路等问题的考虑，不用考虑。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
