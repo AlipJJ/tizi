@@ -110,7 +110,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>优点：可试用，节点丰富、线路稳定，隧道中转，IEPL / IPLC 国际专线，V2Ray、Vmess/Vless、Trojan、SS协议</p>
+<p>优点：可试用，节点丰富、线路稳定，隧道中转，IEPL / IPLC 国际专线，支持V2Ray、Vmess/Vless、Trojan、SS协议</p>
 <!-- /wp:paragraph -->
 
 
