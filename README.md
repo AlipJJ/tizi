@@ -146,7 +146,7 @@
 
 <a href="https://go.51tz.cc/nicecloud">Nicecl 机场（运行2年）</a>
 
-<a href="https://go.51tz.cc/fjcloud">FJC 机场VIP (运行2年）</a>
+<a href="https://go.51tz.cc/jfcloud">JFC 机场VIP (运行2年）</a>
 
 **如果本项目对你有帮助请加个⭐**
 
