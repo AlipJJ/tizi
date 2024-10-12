@@ -10,7 +10,7 @@
 
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><font color="blue">1.FJC飞机 （<mark style="background-color:rgba(0, 0, 0, 0);color:#f50707" class="has-inline-color">最稳定梯子推荐</mark>） </font><a href="https://go.51tz.cc/fjcloud"> 点击访问官网</a></strong></h2>
+<h2 class="wp-block-heading"><strong><font color="blue">1.FJC飞机 （<mark style="background-color:rgba(0, 0, 0, 0);color:#f50707" class="has-inline-color">最稳定梯子推荐</mark>） </font><a href="https://go.1vpn.cc/jife"> 点击访问官网</a></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -46,7 +46,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><font color="blue">2.NiC美云 （<mark style="background-color:rgba(0, 0, 0, 0);color:#f70606" class="has-inline-color">最具性价比梯子推荐</mark>） </font><a href="https://go.51tz.cc/nicecloud"> 点击访问官网</a></strong></h2>
+<h2 class="wp-block-heading"><strong><font color="blue">2.NiC美云 （<mark style="background-color:rgba(0, 0, 0, 0);color:#f70606" class="has-inline-color">最具性价比梯子推荐</mark>） </font><a href="https://go.1vpn.cc/nisi"> 点击访问官网</a></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -74,7 +74,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><font color="blue">3.CmY节点</font>  <a href="https://go.51tz.cc/cmynet">点击访问官网</a></strong></h2>
+<h2 class="wp-block-heading"><strong><font color="blue">3.CmY节点</font>  <a href="https://go.1vpn.cc/suyu">点击访问官网</a></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -102,7 +102,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><font color="blue">4.Gla节点 &nbsp;</font><a href="https://go.51tz.cc/glados">点击访问官网</a></strong></h2>
+<h2 class="wp-block-heading"><strong><font color="blue">4.Gla节点 &nbsp;</font><a href="https://go.1vpn.cc/ewan">点击访问官网</a></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -142,11 +142,11 @@
 
 
 
-<a href="https://go.51tz.cc/sycloud">Suyun 机场（运行3年+）</a>
+<a href="https://go.1vpn.cc/suyu">Suyun 机场（运行3年+）</a>
 
-<a href="https://go.51tz.cc/nicecloud">Nicecl 机场（运行2年）</a>
+<a href="https://go.1vpn.cc/nisi">Nicecl 机场（运行2年）</a>
 
-<a href="https://go.51tz.cc/fjcloud">JFC 机场VIP (运行2年）</a>
+<a href="https://go.1vpn.cc/jife">JFC 机场VIP (运行2年）</a>
 
 **如本项目对你有帮助请+⭐**
 
