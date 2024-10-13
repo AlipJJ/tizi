@@ -102,7 +102,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><font color="blue">4.Gla节点 &nbsp;</font><a href="https://go.1vpn.cc/ewan">点击访问官网</a></strong></h2>
+<h2 class="wp-block-heading"><strong><font color="blue">4.ewan节点 &nbsp;</font><a href="https://go.1vpn.cc/ewan">点击访问官网</a></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -110,9 +110,12 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>优点：可试用，节点丰富、线路稳定，隧道中转，IEPL / IPLC 国际专线，支持V2Ray、Vmess/Vless、Trojan、SS协议</p>
+<p>✅流量一次全部到账，不用担心月底流量会清零</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>优点：可试用，节点丰富、线路稳定，隧道中转，IEPL / IPLC 国际专线，支持V2Ray、Vmess/Vless、Trojan、SS协议</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:uagb/separator {"block_id":"902002b9"} -->
 <div class="wp-block-uagb-separator uagb-block-902002b9"><div class="wp-block-uagb-separator__inner" style="--my-background-image:"></div></div>
