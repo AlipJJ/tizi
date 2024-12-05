@@ -147,7 +147,7 @@
 
 <a href="https://go.1vpn.cc/suyu">Suyun 机场（运行3年+）</a>
 
-<a href="https://go.1vpn.cc/nisi">Nicecl 机场（运行2年）</a>
+<a href="https://go.1vpn.cc/ewan">Ewan 机场（运行2年）</a>
 
 <a href="https://go.1vpn.cc/jife">JFC 机场VIP (运行2年）</a>
 
