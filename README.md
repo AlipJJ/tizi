@@ -14,7 +14,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>✅速度超快：秒开YouTube、Ins，支持ChatGPT，解锁奈飞/Netflix、Hulu、HBO、动画疯、TVB、Apple TV</p>
+<p>✅速度超快：秒开YouTube、Ins，支持ChatGPT、Tiktok，解锁奈飞/Netflix、Hulu、HBO、动画疯、TVB、Apple TV</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
