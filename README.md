@@ -74,7 +74,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><font color="blue">3.CmY节点</font>  <a href="https://go.1vpn.cc/suyu">点击访问官网</a></strong></h2>
+<h2 class="wp-block-heading"><strong><font color="blue">3.优信加速</font>  <a href="https://go.1vpn.cc/uxin">点击访问官网</a></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
